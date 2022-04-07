@@ -19,14 +19,14 @@
   php bin/console app:upload-img
   ```
   
-  You will be asked to enter the image local absolute path (Exp: /home/mustapha/Desktop/banner.png) then hit enter
-  And that's it, just check the folder public/uploads/images and you have to see the image there.
+  You will be asked to enter the image local absolute path (Exp: /home/mustapha/Desktop/banner.png) then hit enter.
+  Now just check the folder public/uploads/images and you have to see the image there.
   
 #### 5) Remove an image
   ```
   php bin/console app:remove-img
   ```
   
-  You will asked to enter the image name to be removed from the folder public/uploads/images then hit enter to delete the image.
+  You will be asked to enter the image name to be removed from the folder public/uploads/images then hit enter to delete the image.
   
 #### 6) That's all !
