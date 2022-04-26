@@ -2,7 +2,7 @@
 ### Installation guide
 
 #### 1) Technical requirements:
-  Make sure you have **symfony cli**, **php >= 7.2** and **composer** installed in your machine. 
+  Make sure that you have **symfony cli**, **php >= 7.2** and **composer** installed in your machine. 
 
 #### 2) Install dependencies
   ```
